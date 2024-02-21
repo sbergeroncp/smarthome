@@ -12,7 +12,8 @@
         "main.blocks",
         "main.ts",
         "home_1.md",
-        "home_2.md"
+        "home_2.md",
+        "home_3.md"
     ],
     "testFiles": [
         "test.ts"
