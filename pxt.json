@@ -23,7 +23,8 @@
         "home_10.md",
         "home_11.md",
         "home_12.md",
-        "home_13.md"
+        "home_13.md",
+        "home_14.md"
     ],
     "testFiles": [
         "test.ts"
