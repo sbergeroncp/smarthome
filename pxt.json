@@ -11,7 +11,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "home_1.md"
+        "home_1.md",
+        "home_2.md"
     ],
     "testFiles": [
         "test.ts"
