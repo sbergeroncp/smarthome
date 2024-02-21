@@ -15,7 +15,8 @@
         "home_2.md",
         "home_3.md",
         "home_4.md",
-        "home_5.md"
+        "home_5.md",
+        "home_6.md"
     ],
     "testFiles": [
         "test.ts"
