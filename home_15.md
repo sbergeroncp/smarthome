@@ -214,7 +214,7 @@ basic.forever(function () {
 
 Ajoute le bloc ``||neopixel:  régler couleur||`` dans le bloc ``||logic:si||``.
 
-Modifie la valeur ``||neopixel: rouge ||`` par la valeur ``||neopixel: ywllow ||``.
+Modifie la valeur ``||neopixel: rouge ||`` par la valeur ``||neopixel: jaune ||``.
 
 ```package
 
