@@ -13,7 +13,8 @@
         "main.ts",
         "home_1.md",
         "home_2.md",
-        "home_3.md"
+        "home_3.md",
+        "home_4.md"
     ],
     "testFiles": [
         "test.ts"
